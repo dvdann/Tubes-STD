@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1555891719 source:d:\c++\std_tubes\topik16\topik16.cpp
+	"topik16.h"
+
+1555889359 source:d:\c++\std_tubes\topik16\main.cpp
+	"topik16.h"
+
+1555906073 d:\c++\std_tubes\topik16\topik16.h
+	<iostream>
+
+1556204829 source:d:\tubesfix\std_tubes\topik16\main.cpp
+	"topik16.h"
+	<iostream>
+
+1556208304 d:\tubesfix\std_tubes\topik16\topik16.h
+	<iostream>
+
+1556240926 source:d:\tubesfix\std_tubes\topik16\topik16.cpp
+	"topik16.h"
+	<iostream>
+
